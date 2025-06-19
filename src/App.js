@@ -18,34 +18,10 @@ const currentSquad = [
   { firstName: "Роман", lastName: "Серебров", birthYear: 1995 }
 ];
 
-
-let btn = document.getElementById('first')
-
-btn.addEventListener("click", function(){
-  starr.
-})
-
-let starr = [st1, st2, st3]
-
-
-let st1 = {
-  backgroungColor: 'black'
-}
-
-let st2 = {
-  backgroungColor: 'yellow'
-}
-
-let st3 = {
-  backgroungColor: 'red'
-}
-
 function App() {
   return (
     <div id = 'main' style={st}>
-      <div id = 'Themes'>
-        <button id = 'first'>1</button>
-      </div>
+      
       <Description></Description>
       <Medals></Medals>
       <Players arr = {currentSquad}></Players>

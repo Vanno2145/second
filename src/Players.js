@@ -1,6 +1,4 @@
-// import './StyleFirst.css'
-// import './StyleSecond.css'
-import './StyleThid.css'
+
 
 function Player(props){
 
