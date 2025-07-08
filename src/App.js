@@ -1,5 +1,10 @@
-import Game from './Components/Game';
+import Reg from "./Form";
+
 
 export default function App() {
-  return <Game />;
+  return (
+    <>
+      <Reg></Reg>
+    </>
+  )
 }
