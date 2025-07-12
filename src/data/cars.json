@@ -1,0 +1,32 @@
+[
+  {
+    "id": "toyota-corolla",
+    "name": "Toyota Corolla",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAQZCKvfNz_0yKuSDZh-GzRQ0gl6fJ8J8hIg&s",
+    "color": "Белый"
+  },
+  {
+    "id": "honda-civic",
+    "name": "Honda Civic",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScbO7sV3hhyJQPeJzLXRxVfm6HXK20hL6bxw&s",
+    "color": "Черный"
+  },
+  {
+    "id": "ford-f150",
+    "name": "Ford F-150",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOHPtSMyCfmWHN4qYnfjDCj0uElCQ9l2xXeQ&s",
+    "color": "Черный"
+  },
+  {
+    "id": "tesla-model-3",
+    "name": "Tesla Model 3",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRW8f6wtH0GUc1X_5MT_CBPTqjxKBq2N3IUVQ&s",
+    "color": "Белый"
+  },
+  {
+    "id": "bmw-x5",
+    "name": "BMW X5",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTe9hom_h5pUB-2alJjJz12tzSLJU1vssg_3w&s",
+    "color": "Черный"
+  }
+]
